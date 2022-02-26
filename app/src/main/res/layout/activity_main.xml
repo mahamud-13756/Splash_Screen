@@ -12,7 +12,7 @@
       android:text="Welcome to DIU_CPC"
       app:layout_constraintBottom_toBottomOf="parent"
       app:layout_constraintLeft_toLeftOf="parent"
-      android:textSize="20dp"
+      android:textSize="30dp"
       app:layout_constraintRight_toRightOf="parent"
       app:layout_constraintTop_toTopOf="parent" />
 
